@@ -1,4 +1,4 @@
-#!
+#!/usr/bin/python
 import MySQLdb
 
 def dbwrap(func):
